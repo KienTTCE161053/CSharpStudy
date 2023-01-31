@@ -1,0 +1,16 @@
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
