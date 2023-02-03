@@ -1,0 +1,16 @@
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\refint\ConsoleApp3.dll
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
+D:\Code\GITHUB\CSharpStudy\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
