@@ -1,0 +1,6 @@
+
+{
+    "ConnectionString": {
+        "GameDataBase" :  "Server=(local);uid=sa;pwd=se1605;database=ClickMob"
+    }
+}
