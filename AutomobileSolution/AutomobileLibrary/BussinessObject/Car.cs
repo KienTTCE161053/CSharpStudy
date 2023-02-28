@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AutomobileLibrary.BussinessObject
 {
-    internal class Car
+    public class Car
     {
         public int CarID { get; set; }
 

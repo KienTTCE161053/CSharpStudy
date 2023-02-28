@@ -66,3 +66,4 @@ D:\Code\GITHUB\CSharpStudy\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ru
 D:\Code\GITHUB\CSharpStudy\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 D:\Code\GITHUB\CSharpStudy\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
 D:\Code\GITHUB\CSharpStudy\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\Code\GITHUB\CSharpStudy\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\jsconfig1.json

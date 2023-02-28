@@ -22,11 +22,11 @@ namespace AutomobileLibrary.DataAccess
 
         private string GetConnectionString()
         {
-            string connectionString;
+            string connectionStrings;
             IConfiguration config = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsetting.json",true,true).Build();
-            connectionString = config["ConnectionString:MyStockDB"];
-            return connectionString;
+                .AddJsonFile("appsettings.json",true,true).Build();
+            connectionStrings = config["ConnectionStrings:MyStock"];
+            return connectionStrings;
         }
 
         public void CloseConnection() => dataProvider.CloseConnection(connection);

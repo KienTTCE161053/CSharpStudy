@@ -8,7 +8,7 @@ using Microsoft.Data.SqlClient;
 
 namespace AutomobileLibrary.DataAccess
 {
-    internal class StockDataProvider
+    public class StockDataProvider
     {
         public StockDataProvider() { }
 
