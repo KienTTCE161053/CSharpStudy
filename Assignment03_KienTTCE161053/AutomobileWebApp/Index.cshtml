@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AutomobileLibreri.DataAccess.Car>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "`/_Layout.cshtml";
+}
+
+<h1>
+    Index
+</h1>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CarId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manufacturer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleasedYear)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Model){
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => car.CarId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => car.CarName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => car.Manufacturer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => car.Price)
+             </td>
+             <td>
+                @Html.DisplayFor(modelitem => car.ReleasedYear)
+             </td>
+             <td>
+                 @Html.ActionLink("Edit", "Edit", new { id = car.CarId})
+                 @Html.ActionLink("Details", "Details", new { id = car.CarId})
+                 @Html.ActionLink("Delete", "Delete", new { id = car.CarId})|
+             </td>
+        </tr>
+        }
+    </tbody>
+</table>

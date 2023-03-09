@@ -1,0 +1,15 @@
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\bin\Debug\net5.0\AutomobileLibreri.deps.json
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\bin\Debug\net5.0\AutomobileLibreri.dll
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\bin\Debug\net5.0\AutomobileLibreri.pdb
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.csproj.AssemblyReference.cache
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.AssemblyInfoInputs.cache
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.AssemblyInfo.cs
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.csproj.CoreCompileInputs.cache
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.dll
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\refint\AutomobileLibreri.dll
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.pdb
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\ref\AutomobileLibreri.dll
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\bin\Debug\net5.0\AutomobileLibreri.runtimeconfig.json
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\bin\Debug\net5.0\AutomobileLibreri.runtimeconfig.dev.json
+D:\Code\GITHUB\CSharpStudy\Assignment03_KienTTCE161053\AutomobileLibreri\obj\Debug\net5.0\AutomobileLibreri.genruntimeconfig.cache
